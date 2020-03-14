@@ -7,4 +7,5 @@ while mózg == True:
     elif name == "Klo":
         mózg = True
     print("Hay " + name + "! ", end=" ")
+
 print("Ojoj niedobrze")
