@@ -6,6 +6,6 @@ while mózg == True:
         mózg = False
     elif name == "Klo":
         mózg = True
-    print("Hay " + name + "! ", end=" ")
+    print("Hay " + name + "!")
 
 print("Ojoj niedobrze")
