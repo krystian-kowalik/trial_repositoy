@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d52d71-9594-41f9-b93d-8110f241001f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/input4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input4.py" beforeDir="false" afterPath="$PROJECT_DIR$/input4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,30 +57,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.input4">
-    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="trial_repositoy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="TERM" value="'xterm-color'" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.input6">
     <configuration name="input2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="input5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +137,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="input6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trial_repositoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,19 +169,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.input" />
-      <item itemvalue="Python.script" />
       <item itemvalue="Python.input2" />
       <item itemvalue="Python.input3" />
       <item itemvalue="Python.input4" />
+      <item itemvalue="Python.input5" />
+      <item itemvalue="Python.input6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.input6" />
+        <item itemvalue="Python.input5" />
         <item itemvalue="Python.input4" />
         <item itemvalue="Python.input3" />
         <item itemvalue="Python.input2" />
-        <item itemvalue="Python.input" />
-        <item itemvalue="Python.script" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +195,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584189523307</updated>
-      <workItem from="1584189524513" duration="6153000" />
+      <workItem from="1584189524513" duration="6544000" />
+      <workItem from="1584202210405" duration="616000" />
+      <workItem from="1584286854466" duration="2402000" />
     </task>
     <task id="LOCAL-00001" summary="just checking">
       <created>1584189741355</created>
@@ -223,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584196829766</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="just checking">
+      <created>1584197956524</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584197956524</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +259,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -249,38 +276,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584195444616" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1584196829632">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1584197956388">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584196829632" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584197956388" />
     <state x="474" y="222" key="EnvironmentVariablesDialog" timestamp="1584191779542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="222" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584191779542" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584197572046">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584290844269">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584197572046" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584197572045">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584290844269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584290844269">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584197572045" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584197572044">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584290844269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584290844268">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584197572044" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584197572045">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584290844268" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584290844269">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584197572045" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584290844269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1584189592710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584189592710" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584196832436">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584197958197">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584196832436" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584197958197" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584286889546">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1584286889546" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584193402090">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -300,8 +339,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/trial_repositoy$script.coverage" NAME="script Coverage Results" MODIFIED="1584191003680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input3.coverage" NAME="input3 Coverage Results" MODIFIED="1584197069067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$input5.coverage" NAME="input5 Coverage Results" MODIFIED="1584287702142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$input6.coverage" NAME="input6 Coverage Results" MODIFIED="1584290844260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input.coverage" NAME="input Coverage Results" MODIFIED="1584193108018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/trial_repositoy$input4.coverage" NAME="input4 Coverage Results" MODIFIED="1584197572034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$input4.coverage" NAME="input4 Coverage Results" MODIFIED="1584202549264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input2.coverage" NAME="input2 Coverage Results" MODIFIED="1584195457641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
