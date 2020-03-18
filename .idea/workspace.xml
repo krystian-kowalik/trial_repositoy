@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d52d71-9594-41f9-b93d-8110f241001f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List Funciton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input4.py" beforeDir="false" afterPath="$PROJECT_DIR$/input4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +56,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.input6">
-    <configuration name="input2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Functions">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="List Funciton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List Funciton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.input2" />
-      <item itemvalue="Python.input3" />
-      <item itemvalue="Python.input4" />
       <item itemvalue="Python.input5" />
       <item itemvalue="Python.input6" />
+      <item itemvalue="Python.List Funciton" />
+      <item itemvalue="Python.Tuples" />
+      <item itemvalue="Python.Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Functions" />
+        <item itemvalue="Python.Tuples" />
+        <item itemvalue="Python.List Funciton" />
         <item itemvalue="Python.input6" />
         <item itemvalue="Python.input5" />
-        <item itemvalue="Python.input4" />
-        <item itemvalue="Python.input3" />
-        <item itemvalue="Python.input2" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +196,9 @@
       <updated>1584189523307</updated>
       <workItem from="1584189524513" duration="6544000" />
       <workItem from="1584202210405" duration="616000" />
-      <workItem from="1584286854466" duration="2402000" />
+      <workItem from="1584286854466" duration="4473000" />
+      <workItem from="1584373761486" duration="719000" />
+      <workItem from="1584545592494" duration="2840000" />
     </task>
     <task id="LOCAL-00001" summary="just checking">
       <created>1584189741355</created>
@@ -248,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584197956524</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="just checking">
+      <created>1584290925472</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584290925472</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,46 +284,52 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584195444616" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1584197956388">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1584290925314">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584197956388" />
+    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1584290925314" />
     <state x="474" y="222" key="EnvironmentVariablesDialog" timestamp="1584191779542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="222" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584191779542" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584290844269">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584549432032">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584197572046" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584290844269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584549432032" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584290844269">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584549432031">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584197572045" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584290844269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584549432031" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584290844268">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584549432030">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584197572044" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584290844268" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584549432030" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584290844269">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584549432032">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584197572045" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584290844269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584549432032" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1584189592710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584189592710" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584197958197">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584290928737">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584197958197" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1584290928737" />
     <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584286889546">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -342,7 +356,10 @@
     <SUITE FILE_PATH="coverage/trial_repositoy$input5.coverage" NAME="input5 Coverage Results" MODIFIED="1584287702142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input6.coverage" NAME="input6 Coverage Results" MODIFIED="1584290844260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input.coverage" NAME="input Coverage Results" MODIFIED="1584193108018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1584546378740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$Function.coverage" NAME="Functions Coverage Results" MODIFIED="1584549432022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input4.coverage" NAME="input4 Coverage Results" MODIFIED="1584202549264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input2.coverage" NAME="input2 Coverage Results" MODIFIED="1584195457641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$List_Funciton.coverage" NAME="List Funciton Coverage Results" MODIFIED="1584373782424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
