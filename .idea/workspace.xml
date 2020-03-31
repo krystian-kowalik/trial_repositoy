@@ -294,10 +294,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584195444616" />
-    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1584550552331">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1585679853662">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584197956388" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585679853662" />
     <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1584550552331" />
     <state x="474" y="222" key="EnvironmentVariablesDialog" timestamp="1584191779542">
       <screen x="0" y="0" width="1440" height="900" />
@@ -335,10 +335,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584189592710" />
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584550560228">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1585679857841">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584197958197" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585679857841" />
     <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1584550560228" />
     <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584973778793">
       <screen x="0" y="23" width="1440" height="797" />
