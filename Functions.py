@@ -13,5 +13,13 @@ def mnozenie(a=[]):
 
 x = [4, 6, 7, 8]
 mnozenie(x)
-print(x)
+print(x, "\n\n")
 
+
+def fibonnacci(n):
+    if n == 1 or n == 2:
+        return 1
+    else:
+        return fibonnacci(n-1)+fibonnacci(n-2)
+
+print(fibonnacci(40))
