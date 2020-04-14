@@ -1,7 +1,7 @@
-i = 1
-while i <= 10:
-    print(i, end="\t")
-    i += 1
+i1 = 1
+while i1 <= 10:
+    print(i1, end="\t")
+    i1 += 1
 
 print("\nSkończyłem z pętlą")
 
