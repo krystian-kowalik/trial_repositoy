@@ -227,7 +227,7 @@
       <workItem from="1586874771788" duration="3687000" />
       <workItem from="1587314000680" duration="2872000" />
       <workItem from="1587558988013" duration="46000" />
-      <workItem from="1587658406377" duration="1163000" />
+      <workItem from="1587658406377" duration="1825000" />
     </task>
     <task id="LOCAL-00001" summary="just checking">
       <created>1584189741355</created>
@@ -355,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587324316163</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="just checking">
+      <created>1587660498714</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587660498715</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,39 +398,39 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="222" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584191779542" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1587658676206">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587661128059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585770531412" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587658676206" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587661128059" />
     <state width="1398" height="123" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584987586499" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1587658676206">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587661128059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585770531411" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587658676206" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587661128059" />
     <state width="1398" height="123" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584987586498" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1587658676205">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587661128059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585770531410" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587658676205" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587661128059" />
     <state width="1398" height="123" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584987586498" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1587658676206">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587661128059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585770531412" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587658676206" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587661128059" />
     <state width="1398" height="123" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584987586499" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
@@ -437,11 +444,12 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="361" y="233" width="570" height="524" key="StructurePopup/0.0.1280.984@0.0.1280.984" timestamp="1586622572563" />
-    <state x="284" y="208" key="Vcs.Push.Dialog.v2" timestamp="1587324317839">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state x="426" y="220" key="Vcs.Push.Dialog.v2" timestamp="1587660504520">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="284" y="208" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1587324317839" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585679926229" />
+    <state x="426" y="220" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587660504520" />
     <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1584550560228" />
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585768815990">
       <screen x="0" y="0" width="1440" height="900" />
@@ -473,7 +481,7 @@
     <SUITE FILE_PATH="coverage/trial_repositoy$is_Statements_and_Comparisons.coverage" NAME="is Statements and Comparisons Coverage Results" MODIFIED="1585769514811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1584781787129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$script.coverage" NAME="script Coverage Results" MODIFIED="1584191003680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/trial_repositoy$ExponentFunction.coverage" NAME="ExponentFunction Coverage Results" MODIFIED="1587658442147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$ExponentFunction.coverage" NAME="ExponentFunction Coverage Results" MODIFIED="1587661128044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$Function.coverage" NAME="Functions Coverage Results" MODIFIED="1584557457120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$if_Statements.coverage" NAME="if Statements Coverage Results" MODIFIED="1585684157571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$while_loop.coverage" NAME="while loop Coverage Results" MODIFIED="1586875992349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
