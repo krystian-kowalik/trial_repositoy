@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d52d71-9594-41f9-b93d-8110f241001f" name="Default Changelist" comment="just checking">
-      <change afterPath="$PROJECT_DIR$/Listy 2D i zagnieżdżone pętle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/budowanie tłumacza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mape txt.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tworzenie gry zgadywanie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tworzenie gry zgadywanie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="text file" />
       </list>
     </option>
   </component>
@@ -72,7 +73,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Listy 2D i zagnieżdżone pętle">
+  <component name="RunManager" selected="Python.budowanie tłumacza">
     <configuration name="ExponentFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +140,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="budowanie tłumacza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trial_repositoy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/budowanie tłumacza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="forLoops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trial_repositoy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,42 +184,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="trial_repositoy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.while loop" />
       <item itemvalue="Python.Tworzenie gry zgadywanie" />
       <item itemvalue="Python.forLoops" />
       <item itemvalue="Python.ExponentFunction" />
       <item itemvalue="Python.Listy 2D i zagnieżdżone pętle" />
+      <item itemvalue="Python.budowanie tłumacza" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.budowanie tłumacza" />
         <item itemvalue="Python.Listy 2D i zagnieżdżone pętle" />
         <item itemvalue="Python.Tworzenie gry zgadywanie" />
         <item itemvalue="Python.ExponentFunction" />
         <item itemvalue="Python.forLoops" />
-        <item itemvalue="Python.while loop" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +233,8 @@
       <workItem from="1587823095833" duration="121000" />
       <workItem from="1587907541889" duration="150000" />
       <workItem from="1587921993718" duration="298000" />
-      <workItem from="1588258501048" duration="2783000" />
+      <workItem from="1588258501048" duration="3523000" />
+      <workItem from="1588347773117" duration="2770000" />
     </task>
     <task id="LOCAL-00001" summary="just checking">
       <created>1584189741355</created>
@@ -374,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587661219682</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="just checking">
+      <created>1588265692256</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1588265692256</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,6 +410,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584195444616" />
+    <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1588348536076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="287" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588348536076" />
     <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1585679914267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -410,39 +423,39 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="222" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584191779542" />
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1588265488644">
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1588350855327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585770531412" />
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588265488644" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588350855327" />
     <state width="1398" height="123" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584987586499" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1588265488644">
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1588350855327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585770531411" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588265488644" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588350855327" />
     <state width="1398" height="123" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584987586498" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1588265488644">
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1588350855327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585770531410" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588265488644" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588350855327" />
     <state width="1398" height="123" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584987586498" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584198466086" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1588265488644">
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1588350855327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1587324327907" />
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585770531412" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588265488644" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588350855327" />
     <state width="1398" height="123" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584987586499" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1584383431103" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584198466087" />
@@ -456,12 +469,12 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="361" y="233" width="570" height="524" key="StructurePopup/0.0.1280.984@0.0.1280.984" timestamp="1586622572563" />
-    <state x="426" y="220" key="Vcs.Push.Dialog.v2" timestamp="1587661222987">
+    <state x="426" y="220" key="Vcs.Push.Dialog.v2" timestamp="1588265693969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="284" y="208" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1587324317839" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585679926229" />
-    <state x="426" y="220" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587661222987" />
+    <state x="426" y="220" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588265693969" />
     <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1584550560228" />
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585768815990">
       <screen x="0" y="0" width="1440" height="900" />
@@ -508,6 +521,7 @@
     <SUITE FILE_PATH="coverage/trial_repositoy$calculator2.coverage" NAME="calculator2 Coverage Results" MODIFIED="1586772788000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$Listy_2D_i_zagniedone_ptle.coverage" NAME="Listy 2D i zagnieżdżone pętle Coverage Results" MODIFIED="1588265661359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$forLoops.coverage" NAME="forLoops Coverage Results" MODIFIED="1587315602376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trial_repositoy$budowanie_tumacza.coverage" NAME="budowanie tłumacza Coverage Results" MODIFIED="1588350855322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input.coverage" NAME="input Coverage Results" MODIFIED="1584193108018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trial_repositoy$input6.coverage" NAME="input6 Coverage Results" MODIFIED="1584290844260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

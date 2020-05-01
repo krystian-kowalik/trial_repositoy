@@ -1,0 +1,7 @@
+
+Giraffe language
+vowels -> g
+--------------
+
+dog -> dgg
+cat -> cgt
